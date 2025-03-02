@@ -1,4 +1,4 @@
-# Xin Chào! 👋 Tôi là [Truyền] (Hay Còn Gọi Là "[Bờm]" )
+# Xin Chào! 👋 Tôi là [Truyền] (Hay Còn Gọi Là "Bờm" )
 
 ![image](https://github.com/user-attachments/assets/dc0ff60a-a516-42b0-8fb8-fd422262d905)
 
@@ -7,9 +7,9 @@ Chào mừng đến với "vũ trụ" kỹ thuật số nhỏ bé của tôi! N�
 
 ## Về Tôi (Hay Còn Gọi Là "Một Sinh Vật Kỳ Lạ Thích Code") 🤪
 
-Tôi là một [sinh viên] đến từ [Nghệ An].  Tôi thích [code, cà phê, mèo, meme, giải quyết vấn đề, v.v.].
+Tôi là một sinh viên đến từ Nghệ An.  Tôi thích code, cà phê, mèo, meme, giải quyết vấn đề, v.v.
 
-Mục tiêu lớn nhất của tôi là [chinh phục thế giới bằng code, viết một chương trình không có lỗi (chuyện hoang đường!), học một ngôn ngữ lập trình mới mỗi tháng (thách thức bản thân!)].
+Mục tiêu lớn nhất của tôi là chinh phục thế giới bằng code, viết một chương trình không có lỗi (chuyện hoang đường!), học một ngôn ngữ lập trình mới mỗi tháng (thách thức bản thân!).
 
 **Tóm lại:** Tôi là một người bình thường (có lẽ hơi "dị") thích mày mò với công nghệ và biến những ý tưởng (điên rồ) thành hiện thực (hoặc ít nhất là cố gắng!).
 
@@ -35,7 +35,7 @@ Bạn có thể xem một số dự án "tuyệt vời" (hoặc ít nhất là "
 
 Bạn muốn kết nối với tôi? Tuyệt vời!  Bạn có thể tìm thấy tôi ở đây:
 
-* **Email:** [trongtruyen04@gmail.com] (Hãy gửi email cho tôi! Tôi thích nhận email... trừ khi đó là spam).
+* **Email:** trongtruyen04@gmail.com (Hãy gửi email cho tôi! Tôi thích nhận email... trừ khi đó là spam).
 
 Đừng ngần ngại liên hệ với tôi nếu bạn có bất kỳ câu hỏi, đề xuất, cơ hội hợp tác, hoặc chỉ đơn giản là muốn chào hỏi!  Tôi luôn sẵn lòng trò chuyện (đặc biệt là về công nghệ, cà phê, mèo, hoặc meme).
 
